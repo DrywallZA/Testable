@@ -1,0 +1,14 @@
+C:\Personal Projects\Upskill\Testable\Testable\Testable\bin\Debug\net9.0\Testable.exe
+C:\Personal Projects\Upskill\Testable\Testable\Testable\bin\Debug\net9.0\Testable.deps.json
+C:\Personal Projects\Upskill\Testable\Testable\Testable\bin\Debug\net9.0\Testable.runtimeconfig.json
+C:\Personal Projects\Upskill\Testable\Testable\Testable\bin\Debug\net9.0\Testable.dll
+C:\Personal Projects\Upskill\Testable\Testable\Testable\bin\Debug\net9.0\Testable.pdb
+C:\Personal Projects\Upskill\Testable\Testable\Testable\obj\Debug\net9.0\Testable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal Projects\Upskill\Testable\Testable\Testable\obj\Debug\net9.0\Testable.AssemblyInfoInputs.cache
+C:\Personal Projects\Upskill\Testable\Testable\Testable\obj\Debug\net9.0\Testable.AssemblyInfo.cs
+C:\Personal Projects\Upskill\Testable\Testable\Testable\obj\Debug\net9.0\Testable.csproj.CoreCompileInputs.cache
+C:\Personal Projects\Upskill\Testable\Testable\Testable\obj\Debug\net9.0\Testable.dll
+C:\Personal Projects\Upskill\Testable\Testable\Testable\obj\Debug\net9.0\refint\Testable.dll
+C:\Personal Projects\Upskill\Testable\Testable\Testable\obj\Debug\net9.0\Testable.pdb
+C:\Personal Projects\Upskill\Testable\Testable\Testable\obj\Debug\net9.0\Testable.genruntimeconfig.cache
+C:\Personal Projects\Upskill\Testable\Testable\Testable\obj\Debug\net9.0\ref\Testable.dll
