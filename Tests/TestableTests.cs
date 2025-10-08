@@ -47,5 +47,25 @@ namespace Tests.TestableTest
             Assert.Equal(expectedResult, result);
         }
 
+        [Fact]
+        public void IsBoolReturned_ShouldReturnTrueIfNumbersAreOdd_ABSTRACT()
+        {
+            List<int> ints = new List<int>() { 2, 3, 4 };
+
+            var testableTests = new Testable();
+            bool result = testableTests.IsNumberUneven(ints);
+            Assert.True(result);
+        }
+
+        [Fact]
+        public void IsBoolReturned_ShouldReturnFalseIfNumbersAreEven_ABSTRACT()
+        {
+            List<int> ints = new List<int>() { 1, 2, 3, 4 };
+
+            var testableTests = new Testable();
+            bool result = testableTests.IsNumberUneven(ints);
+            Assert.False(result);
+        }
+
     }
 }

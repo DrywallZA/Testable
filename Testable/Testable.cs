@@ -1,8 +1,8 @@
-﻿using System;
+﻿using TestableTests.Abstraction;
 
 namespace TestableTests
 {
-    public class Testable
+    public class Testable : AbstractTestClass
     {
         static void Main(string[] args)
         {
@@ -24,7 +24,6 @@ namespace TestableTests
             return typeToConvert.ToString();
         }
 
-
         public virtual bool IsStringLongEnough(string text)
         {
             if (text.Length >= 5)
@@ -35,10 +34,9 @@ namespace TestableTests
             return false;
         }
 
-        public abstract List<int> PurgeListOfInts(List<int> listOfInts)
+        public override bool IsNumberUneven(List<int> intsToCheck)
         {
-            return listOfInts.Clear();
-
+            return intsToCheck.Sum() % 2 != 0;
         }
     }
 }

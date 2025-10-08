@@ -102,3 +102,4 @@ c:\Personal Projects\Upskill\Testable\Testable\Tests\obj\Debug\net9.0\refint\Tes
 c:\Personal Projects\Upskill\Testable\Testable\Tests\obj\Debug\net9.0\Tests.pdb
 c:\Personal Projects\Upskill\Testable\Testable\Tests\obj\Debug\net9.0\Tests.genruntimeconfig.cache
 c:\Personal Projects\Upskill\Testable\Testable\Tests\obj\Debug\net9.0\ref\Tests.dll
+C:\Personal Projects\Upskill\Testable\Testable\Tests\obj\Debug\net9.0\Tests.sourcelink.json
