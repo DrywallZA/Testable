@@ -66,6 +66,5 @@ namespace Tests.TestableTest
             bool result = testableTests.IsNumberUneven(ints);
             Assert.False(result);
         }
-
     }
 }
